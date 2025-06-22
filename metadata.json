@@ -1,0 +1,19 @@
+{
+  "name": "NWR Logo",
+  "description": "Official NWR logo for decentralized identity and asset systems",
+  "image": "nwr_logo_256x256.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Logo"
+    },
+    {
+      "trait_type": "Format",
+      "value": "PNG"
+    },
+    {
+      "trait_type": "Resolution",
+      "value": "256x256"
+    }
+  ]
+}
